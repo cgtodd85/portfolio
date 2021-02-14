@@ -42,6 +42,10 @@ D.R.Y CLASSES (reusable)
     border: 1px solid white;
   }
   
+  img {
+    border-radius: 25px;
+  }
+
   main {
     float: left;
     background-color: #1D88E5;

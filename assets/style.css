@@ -27,6 +27,8 @@ D.R.Y CLASSES (reusable)
   }
   
   header {
+    font-size: 200%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-color: #1de577;
     height: 100px;
     padding: 10px;
